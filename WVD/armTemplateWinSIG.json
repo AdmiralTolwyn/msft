@@ -68,7 +68,7 @@
             [
                 {   
                     "type": "SharedImage",
-                    "galleryImageId": "/subscriptions/<subscriptionID>/resourceGroups/<rgName>/providers/Microsoft.Compute/galleries/<sharedImageGalName>/images/<imageDefName>",
+                    "galleryImageId": "/subscriptions/<subscriptionID>/resourceGroups/<rgName>/providers/Microsoft.Compute/galleries/<sharedImageGalName>/images/<imageName>",
                     "runOutputName": "<runOutputName>",
                     "artifactTags": {
                         "source": "azVmImageBuilder",
@@ -82,5 +82,9 @@
             ]
             }
         }   
+<<<<<<< HEAD
     ] 
+=======
+    ]
+>>>>>>> 0ec5da54450d705ab6b2508786bb27e1b9f5525e
 }    
